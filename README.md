@@ -1,5 +1,4 @@
 # 🧾 NoteNest
-
 **NoteNest** is a lightweight and modular Python backend for managing notes via RESTful APIs. Built with Flask and powered by JSON file storage, it offers a clean and scalable foundation for note-taking applications, prototypes, or backend learning projects.
 ---
 
@@ -9,7 +8,7 @@
 - 📁 Stores data locally in a structured `notes.json` file
 - 🧩 Modular architecture with clear separation of models, services, and utilities
 - 🔍 Easy to test and extend with new features or database integrations
-- 🧪 Optional unit tests for core logic
+- 🧪 Optional unit tests for core logic.
 
 ---
 
